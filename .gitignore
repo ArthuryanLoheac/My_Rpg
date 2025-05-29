@@ -1,0 +1,15 @@
+.vscode
+.idea/*
+*.o
+*.a
+*.gcda
+*.gcno
+vgcore*
+*~
+*~
+#*
+*#
+my_rpg
+*.svg
+*.rtb
+*.log
