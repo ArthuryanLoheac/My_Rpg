@@ -18,7 +18,7 @@
 struct s_gui_drop_menu *add_option_drop_menu(struct s_gui_drop_menu *drop_menu,
     gui_obj_t *obj)
 {
-    struct s_gui_options *new = malloc(sizeof(struct s_gui_drop_menu));
+    struct s_gui_options *new = malloc(24);
     struct s_gui_options *list_ptr = (drop_menu->options);
 
     new->option = obj;
