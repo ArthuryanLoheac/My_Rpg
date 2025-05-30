@@ -1,8 +1,27 @@
-# 🧙 MyRPG – The Ultimate First-Year RPG Project
+# 🧙 MyRPG – Rust Dust & Bust
 
 > 🏆 **Winner of Epitech's RPG of the Year (2024)**
 > 🎓 Developed as part of the B-MUL-200 module at Epitech
+> 
 
+---
+
+![RDB_Logo](https://github.com/user-attachments/assets/b8fd6975-37f2-4a08-ae6c-74e28ab515e4)
+
+## 🦾 Rust, Dust & Bust
+
+> A dystopian RPG adventure inspired by tabletop **Cyberpunk** universes.
+
+Dive into a dark and gritty sci-fi world where technology and rebellion clash.  
+**Rust, Dust & Bust** tells a unique story with interactive NPCs, dynamic combat, and immersive atmosphere.
+
+
+
+
+<details>
+<summary>✨ Screenshots (click to expand)</summary>
+
+</details>
 ---
 
 ## 🎮 What is MyRPG?
@@ -44,18 +63,20 @@
 
 ## 🧪 How to Launch the Game
 
+> ⚠️ Make sure CSFML is installed on your system before building the project.
+
 ```bash
-// Clone the repository
+# Clone the repository
 git clone https://github.com/ArthuryanLoheac/My_Rpg
 cd My_Rpg
 
-// Compile the project :
+# Compile the project
 make
 
-// Unzip assets
+# Extract the game assets
 unzip assets.zip
 unzip music.zip
 
-// Start the game !
+# Launch the game
 ./my_rpg
 ```
