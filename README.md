@@ -16,12 +16,14 @@ Dive into a dark and gritty sci-fi world where technology and rebellion clash.
 **Rust, Dust & Bust** tells a unique story with interactive NPCs, dynamic combat, and immersive atmosphere.
 
 
+### 🎥 Trailer
+https://github.com/user-attachments/assets/41de3f91-daec-40cb-9acb-ebbc610dbb75
+
+### 🖼️ Screenshots
+![image](https://github.com/user-attachments/assets/3c5ac225-ef3b-43f9-878c-dd86cabcc40a)
+![image](https://github.com/user-attachments/assets/1126c3ee-b7d4-4890-8d4e-c342da5301a8)
 
 
-<details>
-<summary>✨ Screenshots (click to expand)</summary>
-
-</details>
 ---
 
 ## 🎮 What is MyRPG?
