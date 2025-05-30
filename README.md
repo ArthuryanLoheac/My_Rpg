@@ -2,7 +2,6 @@
 
 > 🏆 **Winner of Epitech's RPG of the Year (2024)**
 > 🎓 Developed as part of the B-MUL-200 module at Epitech
-> 
 
 ---
 
